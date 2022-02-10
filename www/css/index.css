@@ -1,0 +1,23 @@
+#container #btnGenera{
+    position: fixed;
+    margin: 0 auto;
+    bottom: 10px;    
+}
+#container{
+    display: block;
+    /*transform: translate(-50%, -50%);*/
+    text-align: center;
+    position: relative;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+#risultati{
+    text-align: center;
+    color: rgb(0, 255, 34);
+    font-size: 20pt;
+}
+body{
+    background-color: #0B1418;
+}
